@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jonriemain@gmail.com**
 
-- 📄 Know about my experiences [https://jonrie.xyz/cv/JonrieCV.docx](https://jonrie.xyz/cv/JonrieCV.docx)
+- 📄 Know about my experiences [https://jonrie.xyz/cv/JonrieCV.pdf](https://jonrie.xyz/cv/JonrieCV.pdf)
 
 - ⚡ Fun fact **I am Funny**
 
