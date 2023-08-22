@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Typescript,PHP,React JS,MySQL**
 
-- 👨‍💻 All of my projects are available at [https://jonrie.xyz/](https://jonrie.xyz/)
+- 👨‍💻 All of my projects are available at [https://jonrie.vercel.app/](https://jonrie.vercel.app/)
 
 - 📫 How to reach me **jonriemain@gmail.com**
 
-- 📄 Know about my experiences [https://jonrie.xyz/cv/JonrieCV.pdf](https://jonrie.xyz/cv/JonrieCV.pdf)
+- 📄 Know about my experiences [https://jonrie.vercel.app/assets/jonrieCV.pdf](https://jonrie.vercel.app/assets/jonrieCV.pdf)
 
 - ⚡ Fun fact **I am Funny**
 
