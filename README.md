@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonriemain&label=Profile%20views&color=0e75b6&style=flat" alt="jonriemain" /> </p>
 
-- 🌱 I’m currently learning **Typescript,PHP,React JS,MySQL**
+- 🌱 I’m currently learning **Typescript,React JS,Laravel**
 
 - 👨‍💻 All of my projects are available at [https://jonrie.vercel.app/](https://jonrie.vercel.app/)
 
