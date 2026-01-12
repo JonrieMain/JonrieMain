@@ -1,7 +1,7 @@
 <img align="center" width="100%" height="200" src="https://i.pinimg.com/originals/59/35/5f/59355f751c1e3698cc6360b1a7390094.jpg" />
 
 <h1 align="center">Hi 👋, I'm Jonrie Morales badiang</h1>
-<h3 align="center">A passionate Web Developer from Philippines</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
 
 <img alt="cover" align="right" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 
